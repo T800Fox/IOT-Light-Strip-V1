@@ -1,6 +1,6 @@
 # Hallway Light Strip (Version 1)
 ***IOT Motion detecting hallway lights***<br>
-Still a work in progress, but it's behaving how it's supposed to.
+Still a work in progress, but it's behaving how it's supposed to.\
 See here for the [lastest version](https://github.com/T800Fox/IOT-Light-Strip-V2).
 ## Features
 - RGB colour control via. MQTT.
